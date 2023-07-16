@@ -42,7 +42,7 @@ button:hover {
     border: 3px solid black;
     border-radius: 10px;
     /* max-width: 320px; */
-    width: 300px;
+    width: 320px;
     /* background-color: #eef0f4; */
     background-color: #f46197;
     padding: 30px;
@@ -61,7 +61,7 @@ ul {
     list-style: none;
     padding: 0;
     margin: 10px 0px 0px;
-    width: 300px;
+    width: 320px;
 }
 
 ul li {
