@@ -5,7 +5,8 @@ body {
     /* font-family: "Rubic", sans-serif; */
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     /* background-color: #EEF0F4; */
-    background-color: #6c9a8b;
+    /* background-color: #6c9a8b; */
+    background-color: #f46197;
     color: #432000;
     user-select: none;
 }
@@ -45,7 +46,7 @@ button:hover {
 .flex-container {
     display: flex;
     flex-direction: column;
-    border: 3px solid black;
+    /* border: 3px solid black; */
     border-radius: 10px;
     /* max-width: 320px; */
     /* width: 340px; */
@@ -87,6 +88,4 @@ ul li:hover {
     cursor: pointer;
 }
 
-@viewport{
-
-}
+@viewport {}
