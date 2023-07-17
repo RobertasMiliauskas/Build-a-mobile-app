@@ -48,7 +48,7 @@ button:hover {
     border: 3px solid black;
     border-radius: 10px;
     /* max-width: 320px; */
-    width: 340px;
+    /* width: 340px; */
     /* background-color: #eef0f4; */
     background-color: #f46197;
     padding: 30px;
@@ -67,7 +67,7 @@ ul {
     list-style: none;
     padding: 0;
     margin: 10px 0px 0px;
-    width: 340px;
+    /* width: 340px; */
 }
 
 ul li {
@@ -85,4 +85,8 @@ ul li {
 ul li:hover {
     background-color: #FFECC7;
     cursor: pointer;
+}
+
+@viewport{
+
 }

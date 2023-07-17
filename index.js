@@ -51,7 +51,7 @@ function resetshopingListEl() {
 }
 
 function addListElementToDOM(item) {
-   // const listElementString = `<li>${value}</li>`;
+  // const listElementString = `<li>${value}</li>`;
   // ulEl.innerHTML += listElementString;
   let itemId = item[0];
   let itemValue = item[1];
